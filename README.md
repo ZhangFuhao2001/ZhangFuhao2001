@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ZhangFuhao2001
 - 👀 I’m interested in java
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java
 - 📫 How to reach me 2422543809@qq.com
 
 <!---
